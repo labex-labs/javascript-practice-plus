@@ -11,8 +11,8 @@ In this course, You will practice more labs of JavaScript. This will help you to
 
 ## Scenarios
 
-|   Index | Name                                                     | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 HTTP Module Application                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177218'>Start Challenge</a> |
 |     002 | 🎯 LabEx Campus Card                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271654'>Start Challenge</a> |
 |     003 | 🎯 One Plus One Equals?                                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/270922'>Start Challenge</a> |
