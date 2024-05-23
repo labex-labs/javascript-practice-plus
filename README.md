@@ -11,7 +11,7 @@ In this course, You will practice more labs of JavaScript. This will help you to
 
 ## Scenarios
 
-|   Index | Name                                                    | Difficulty   | URL                                                                        |
+|   Index | Name                                                    | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |     001 | 🎯 HTTP Module Application                               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/177218'>Start Challenge</a> |
 |     002 | 🎯 LabEx Campus Card                                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/271654'>Start Challenge</a> |
@@ -636,4 +636,9 @@ In this course, You will practice more labs of JavaScript. This will help you to
 |     621 | 📖 Bind Object Method                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28175'>Start Lab</a>        |
 |     622 | 📖 JavaScript Event Introduction                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/106901'>Start Lab</a>       |
 |     623 | 📖 Array to HTML List                                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/28158'>Start Lab</a>        |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [JavaScript Free Tutorials](https://github.com/labex-labs/javascript-free-tutorials)
 
